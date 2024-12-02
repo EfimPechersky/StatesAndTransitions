@@ -1,0 +1,14 @@
+-rootPath
+D:/StatesAndTransitions
+-cmake-output
+-output-file
+D:/StatesAndTransitions/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStatesAndTransitions.cmake
+-importPath
+D:/StatesAndTransitions/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/StatesAndTransitions
+-importPath
+D:/StatesAndTransitions/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/StatesAndTransitions/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_StatesAndTransitions.qrc
+D:/StatesAndTransitions/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_StatesAndTransitions_copy.qrc

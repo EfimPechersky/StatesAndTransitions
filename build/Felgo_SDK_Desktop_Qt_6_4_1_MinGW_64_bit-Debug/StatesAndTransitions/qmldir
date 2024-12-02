@@ -1,0 +1,4 @@
+module StatesAndTransitions
+typeinfo appStatesAndTransitions.qmltypes
+prefer :/
+
